@@ -8,5 +8,5 @@
 ## considering relations to predict future performances
 ## graph
 
-![Financial Planner](Images/TSLA.png)
-![Financial Planner](Images/SPY.png)
+![TSLA](Images/TSLA.png)
+![SPY](Images/SPY.png)
