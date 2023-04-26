@@ -8,5 +8,5 @@
 ## considering relations to predict future performances
 ## graph
 
-![TSLA](Images/TSLA.png)
-![SPY](Images/SPY.png)
+![alt=""](Images/TSLA.png)
+![alt=""](Images/SPY.png)
